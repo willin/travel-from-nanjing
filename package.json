@@ -1,0 +1,24 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "人生就像一场旅行，不必在乎目的地，在乎的，是沿途的风景，以及看风景的心情。",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willin/travel-from-nanjing.git"
+  },
+  "keywords": [],
+  "author": "Willin Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willin/travel-from-nanjing/issues"
+  },
+  "homepage": "https://github.com/willin/travel-from-nanjing#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-dwing": "^1.2.0"
+  }
+}
